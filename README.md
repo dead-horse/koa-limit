@@ -69,6 +69,10 @@ $ git summary
      1  fengmk2                 4.8%
 ```
 
+## ChangeLog
+
+1. support couchbase
+
 ## License
 
 The MIT License (MIT)
